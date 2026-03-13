@@ -1,0 +1,38 @@
+[
+  {
+    "id": "demo-001",
+    "type": 0,
+    "category": 2,
+    "amount": 68.0,
+    "person": "Bank Interest",
+    "description": "Savings bank interest credited",
+    "date": "2025-08-08T10:00:00.000Z"
+  },
+  {
+    "id": "demo-002",
+    "type": 1,
+    "category": 1,
+    "amount": 250.0,
+    "person": "Friend",
+    "description": "UPI payment to individual",
+    "date": "2025-11-04T10:00:00.000Z"
+  },
+  {
+    "id": "demo-003",
+    "type": 0,
+    "category": 1,
+    "amount": 500.0,
+    "person": "Friend",
+    "description": "UPI received from individual",
+    "date": "2025-11-08T10:00:00.000Z"
+  },
+  {
+    "id": "demo-004",
+    "type": 1,
+    "category": 1,
+    "amount": 120.0,
+    "person": "Food Outlet",
+    "description": "Food expense via UPI",
+    "date": "2025-11-11T10:00:00.000Z"
+  }
+]
