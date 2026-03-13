@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">CoinLock</h1>
-<p align="center">Distraction-Free Expense Tracking</p>
+<p align="center">A privacy-first offline expense tracker that stores
+all data locally on your device without any cloud sync.</p>
 
 <p align="center">
   <a href="../../releases/latest">
